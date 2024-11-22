@@ -1,2 +1,2 @@
-# theseus-project
-Theseus: Build, adapt, and evolve with an open-source manipulator
+# Theseus: Build, adapt, and evolve with an open-source manipulator
+
