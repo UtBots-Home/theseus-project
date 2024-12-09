@@ -3,7 +3,7 @@
 Built for modularity and scalability, the Theseus arm is in its first phase of field testing.
 Our main objectives are constructing a manipulator that can deliver decent accuracy for simple household tasks, that can be built on a budget, yet can still lift a relatively high payload when compared to its peers in the @home category of CBR.
 
-![Screenshot from 2024-12-09 10-43-31](https://github.com/user-attachments/assets/ec1551b1-8593-49b2-a031-278df3a22ae6)
+![Screenshot from 2024-12-09 10-43-31](https://github.com/user-attachments/assets/fd263ef9-30d8-498e-b453-c7a902157ff5)
 
 ## Making it move: selection of motors and actuator design
 
